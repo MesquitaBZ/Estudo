@@ -1,2 +1,4 @@
-# Estudo
-HTML/CSS/JS
+# Estudo HTML/CSS/JS
+# Criando o primeiro site
+# 
+
